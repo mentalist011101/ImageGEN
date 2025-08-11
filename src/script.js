@@ -6,8 +6,6 @@ const modelSelect = document.getElementById("model-select");
 const imageCountSelect = document.getElementById("image-count-select");
 const aspectRatioSelect = document.getElementById("aspect-ratio-select");
 const gridGallery = document.querySelector(".gallery-grid");
-// Add a constant HF_TOKEN with your HuggingFace API Key
-
 
 const examplePrompts = [
     "A magic forest with glowing plants and fairy homes among giant mushrooms",
